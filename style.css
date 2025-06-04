@@ -1,8 +1,17 @@
-body{
-  margin:0;
-  font-family:inconsolate;
-
-}
+ body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #1e1e2f;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
  .content_images{
 
 width:350px;
